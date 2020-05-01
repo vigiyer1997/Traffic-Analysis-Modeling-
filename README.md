@@ -1,6 +1,6 @@
 # The Villisendo Process for Traffic Analysis
 ## Network analysis of traffic given the statement:
-Given a connected multi-weighted directional graph G = (V, E) repre- senting a network of streets within a city (the sets of weights representing road length, speed limit and congestion as a function of time), this paper will investigate the following:
+Given a connected multi-weighted directional graph G = (V, E) representing a network of streets within a city (the sets of weights representing road length, speed limit and congestion as a function of time), this paper will investigate the following:
 1. What is the shortest route in time between vertices a, b ∈ V?
 2. What time should one leave in order to be on time for an appoint-
 ment?
